@@ -327,34 +327,39 @@ const urlPrefix =
     'https://docs.flutter.dev/cookbook/img-files/effects/parallax';
 const locations = [
   Location(
-    name: 'Mount Rushmore',
-    place: 'U.S.A',
+    name: 'Surabaya - Madiun - Solo - Yogyakarta - Purwokerto',
+    place: 'W 7202 UP',
     imageUrl: 'assets/bg.jpeg',
   ),
   Location(
-    name: 'Gardens By The Bay',
-    place: 'Singapore',
+    name:
+        'Surabaya - Nganjuk - Karangjati - Ngawi - Solo - Semarang - Cirebon - Jakarta',
+    place: 'W 7156 UP',
     imageUrl: 'assets/images16.jpg',
   ),
   Location(
-    name: 'Machu Picchu',
-    place: 'Peru',
+    name: 'Surabaya - Nganjuk - Karangjati - Ngawi - Solo - Semarang - Cirebon',
+    place: 'W 7507 UZ',
     imageUrl: 'assets/images17.jpg',
   ),
   Location(
-    name: 'Vitznau',
-    place: 'Switzerland',
+    name: 'Surabaya - Madiun - Solo - Yogyakarta - Purwokerto - Bandung',
+    place: 'W 7558 UN',
     imageUrl: 'assets/images14.jpg',
   ),
   Location(
-    name: 'Bali',
-    place: 'Indonesia',
+    name: 'Surabaya - Madiun - Solo - Wonogiri',
+    place: 'W 7571 UP',
     imageUrl: 'assets/images18.jpg',
   ),
   Location(
-    name: 'Mexico City',
-    place: 'Mexico',
+    name:
+        'Jember - Probolinggo - Pasuruan - Mojosari - Mojokerto - Nganjuk - Madiun - Solo - Yogyakarta - Purwokerto',
+    place: 'W 7467 UN',
     imageUrl: 'assets/images19.jpg',
   ),
-  Location(name: 'Cairo', place: 'Egypt', imageUrl: 'assets/images20.jpg'),
+  Location(
+      name: 'Surabaya - Nganjuk - Karangjati - Ngawi - Solo - Semarang',
+      place: 'W 7707 UY',
+      imageUrl: 'assets/images20.jpg'),
 ];
